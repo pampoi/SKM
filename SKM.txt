@@ -1,0 +1,3 @@
+Text Input Hoshi berasal dari library  https://github.com/halilb/react-native-textinput-effects
+
+data dikirim ke API : https://638485154ce192ac6059d6a2.mockapi.io/users
